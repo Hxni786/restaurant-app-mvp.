@@ -1,3 +1,6 @@
+Assignment #1
+Syed Hassan Dildar
+Reg No : 8984
 # Mobile Application Development - Assignment No 1
 
 This repository contains the source code for the "Restaurant App MVP" developed using React Native and Expo. 
